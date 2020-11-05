@@ -1,0 +1,1 @@
+# extension-agregore-permissions-fetch
